@@ -8,7 +8,9 @@ How to install:
 2. Open Terminal and enter the following code to download required libraries:
    
 python3 -m pip install random
+
 python3 -m pip install matplotlib
+
 python3 -m pip install streamlit
 
 3. Launch the appplication by entering:
